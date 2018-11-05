@@ -1,0 +1,2 @@
+# JavaHibernate
+Exemplo de Hibernate
